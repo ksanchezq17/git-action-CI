@@ -11,4 +11,4 @@ def subtraction(start: int):
 
 
 def division(start: int):
-    return lambda x: start / x
+    return lambda y: start / y
