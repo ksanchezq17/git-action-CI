@@ -3,15 +3,10 @@
     "include-v-in-tag": true,
     "tag-separator": "@",
     "draft": true, 
-    "separate-pull-requests": true,
     "packages": {
       "python": {
         "path": "python/mypython",
         "release-type": "python"
-      },
-    "frontend": {
-      "path": "my-app",
-      "release-type": "node"
-    }
+      }
   }
 }
